@@ -1,0 +1,185 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
+<head>
+
+<!--BRUSH SCRIPT FONT-->
+<link href="https://fonts.cdnfonts.com/css/haverbrooke" rel="stylesheet">
+<style>
+  @import url('https://fonts.cdnfonts.com/css/haverbrooke');
+</style>
+
+<!--TAB SPACING-->
+<style>
+  .tabs {
+    display: inline-block;
+    margin-left: 40px;
+  }
+</style>
+
+<!--INDENT-->
+<style type="text/css">
+  .tab { 
+    margin-left: 40px; 
+  }
+</style>
+
+<!--MENU INLINE LIST-->
+<style>
+  .menu li {
+    display: inline;
+    padding: 20px;
+  }
+</style>
+
+<!--TABLE BOARDER -->
+<style>
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+</style>
+</head>
+
+<body>
+
+<body style = "background-color : #D3D3D3">
+
+<title>MyBasketballJourney/wolverines</title>
+
+
+<center>
+  <h1 style="font-family:'Haverbrooke', sans-serif">Wolverines</h1>
+  <hr/>
+  <p style="font-family:courier"> <span class="tabs"></span>
+    AAU Era...
+  </p>
+  <ul class="menu"> 
+    <li><a href="index.html" style="font-family:courier; font-weight:bold; text-decoration:none; color:black">HOME PAGE</a></li>
+    <li><a href="page3.html" style="font-family:courier; font-weight:bold; text-decoration:none; color:black">PREVIOUS PAGE</a></li>
+    <li><a href="page5.html" style="font-family:courier; font-weight:bold; text-decoration:none; color:black">NEXT PAGE</a></li>
+  </ul>
+</center>
+<hr/>
+<img src="wolverines.jpg" alt="wolverines" style="width:400px; height:420px; float:right">
+<p class="tab" style="font-family:courier">
+After my grade 9 season with the Cambridge Centaurs my coach told us that he was moving to Toronto for work and could no longer coach us. This is when a couple of my teammates and myself decided to make the switch to try out for the Waterloo Wolverines. We had played them the year before so going into the tryout I knew what to expect from my competition. After a few tryouts, 2 of my centaurs’ teammates and I made the team. This team was one of the most talented teams I played for because it was composed of the best players from Cambridge, Kitchener, and Waterloo. Practices were always competitive, if you didn’t come to play, Ahmed would let you hear it. He was hard on us, but we knew it was because he cared so much. During our season we made it to the semi finals in our league where we faced two of the top recruits coming out of Canada. We ended up losing the game but we kept it close. <br/><br/>
+After our season was over, we began practicing more and signed up for some AAU tournaments in the States. The first one we attended was the Pit Jam Fest in Pittsburgh, Pennsylvania. This was the first big AAU tournament that I ever went to. The competition there was the best I’ve ever seen at that point in my career. When you walked into the facility, it was filled with probably 20 courts in a giant warehouse and then another 20 courts on the floor above. Some of the courts were packed with college scouts looking to give out scholarships. At this point in my life my basketball dream was to play division one basketball so I was excited to have the opportunity to play in front of coaches from D1 schools. However, since we were from Canada and not very well known, all our games were played on the side courts where no scouts came to watch. We didn’t place very high but we did pull out a couple wins against some American teams. <br/><br/>
+Our next tournament was in a small town in New York State.  When we got there the competition didn’t look nearly as good as the teams we played in Pittsburgh. I checked into the game a few minutes into the first quarter and on my first layup attempt on a baseline drive a defender stepped in last second and took my legs out while I was in the air. I flipped over and landed on my shoulder and had to be taken to the hospital. It ended up only being a minor clavicle separation, but it was enough to sideline me for the rest of the season. Despite my injury my team ended up winning the whole tournament. <br/><br/>
+The following year, Kitchener native and current NBA star, Jamal Murray, started up his own aau team and Ahmed was asked to be the head coach. So, our wolverines team converted over to Team Murray. My greatest memory from playing for this team was when Jamal Murray’s dad, Roger Murray, challenged me as the best shooter on the team. He asked me to make as many 3’s as I could in a minute. I was nervous because I was being watched by all my teammates and I needed to prove myself as the best shooter. Well…I shot terribly and got down on myself. Roger yelled at me and told me to fix my body language and have some more confidence because it doesn’t matter if you miss a few shots, its how you respond after missing. After talking to me about confidence he let me have a second attempt. This time I didn’t even miss, I hit over 10 shots in a row and my teammates were cheering and crowded around me before the time even expired. I often think back to that moment when I find I start to sulk after missing a few shots. Half of shooting is having the confidence to make every shot you take. 
+
+
+</p> 
+<hr/>
+
+<img src="teammurray.jpg" alt="teammurrayteam" style="width:400px; height:320px; float:right">
+<img src="benterrel.jpg" alt="benandterrel" style="width:300px; height:200px; float:left">
+
+<p style="font-family: courier; margin-left:310px; margin-bottom:0"><i><b>TOP 3 YEARS OF HOCKEY/SOCCER</b></i></p>
+
+<ol style=" margin-left:310px; margin-top:0px; padding-top:0px">    
+  <li style="font-family:courier">Grade 4 hockey</li>
+  <li style="font-family:courier">Grade 8 soccer</li>
+  <li style="font-family:courier">Grade 5 hockey</li>
+</ol>
+
+<p style="font-family: courier; margin-bottom:0; margin-left:310px"><b><i>TEAMS AND SCHOOLS</i></b></p>
+
+<table style="width:50%; font-family: courier; margin-left:310px" class="tab">
+  <tr>
+    <th>Grade</th>
+    <th>Team</th>
+    <th>School</th>
+  </tr>
+  <tr>
+    <th>Grade 10</th>
+    <td style="text-align: center">Waterloo Wolverines</td>
+    <td style="text-align: center">St.Benedict</td>
+  </tr>
+  <tr>
+    <th>Grade 11</th>
+    <td style="text-align: center">Team Jamal Murray</td>
+    <td style="text-align: center">St.Benedict</td>
+  </tr>
+</table>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<hr/>
+
+<p class="tab" style="font-family:courier; margin-bottom:0px"><b><i>BASKETBALL SLANG PT.4</i></b></p>
+<dl class="tab" style="font-family:courier; margin-top:0px">
+ <dt>Hops</dt>
+    <dd>Someone who can jump really high has 'hops'<dd>
+  <dt>Making it Rain</dt>
+    <dd>When someone hits a few threes they are 'making it rain' three pointers</dd>
+  <dt>Putting on a clinic</dt>
+    <dd>When a team is beating another team so badly, the game turns into more a pratice for the stonger team aka the players are 'putting on a clinic'<dd>
+</dl>
+<hr/>
+
+<div style="background-color:#FF2D00; color:black">
+  <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+  <center>
+    <font size="+2">
+      <p style= "font-family:'impact', sans-serif;"><b>KAREEM ABDUL-JABBAR</b></p>
+    </font>
+    <font size="+2.5">
+      <p style= "font-family:courier">
+         "You can't win unless you learn how to lose."
+      </p>
+    </font>
+    <p>...</p>
+  </center>
+
+  <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+  <a style="font-family:courier" href="#top" class="tab"><b>Back to top</b></a>
+</div>
+
+<div style="background-color:black; color:white">
+  <img src="bball.png" alt="bball" width="170" height="170" style="float:right; margin-top:50px; margin-right:70px"/>
+  <br>
+  <font size="+1">
+    <h5 class="tab"; style="font-family:'Haverbrooke', sans-serif">My Basketball Journey</h5>
+  </font>
+  
+  <p class="tab" style="font-family:courier">
+	If you have any further questions or feedback on my website, feel free to leave a comment below. Thank you!
+  </p>
+  <form action="mailto:mascareb@uwindsor.ca" method="post" enctype="text/plain" class="tab">
+	<textarea name="comments" rows="5" cols="90">Feedback:</textarea><br/>
+	<input type="submit" value="send feedback" />
+	<input type="reset" value="reset" />
+  </form>
+
+  <br/>
+  <hr style="margin-left:60px; margin-right:60px"/>
+
+  <a href="https://www.facebook.com/">
+    <img src="facebook.png" alt="facebook" width="27" height="27" style="float:right; margin-right:60px"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="instagram.png" alt="instagram" width="30" height="30" style="float:right; margin-right:10px"/>
+  </a>
+  <center>
+    <address style="font-family:courier">  
+      Ben Mascarenhas
+      <a href="mailto:mascareb@uwindsor.ca">mascareb@uwindsor.ca</a> 
+    </address>
+  </center>
+  <br/>
+</div>
+
+<script type="module" src="https://s.brightspace.com/lib/bsi/20.23.2-176/unbundled/mathjax.js"></script><script type="text/javascript">document.addEventListener('DOMContentLoaded', function() {
+					if (document.querySelector('math') || /\$\$|\\\(|\\\[|\\begin{|\\ref{|\\eqref{/.test(document.body.innerHTML)) {
+						document.querySelectorAll('mspace[linebreak="newline"]').forEach(elm => {
+							elm.setAttribute('style', 'display: block; height: 0.5rem;');
+						});
+
+						window.D2L.MathJax.loadMathJax({
+							'outputScale': 1.3,
+							'renderLatex': true
+						});
+					}
+				});</script><script type="module" src="https://s.brightspace.com/lib/bsi/20.23.2-176/unbundled/prism.js"></script><script type="text/javascript">document.addEventListener('DOMContentLoaded', function() {
+					document.querySelectorAll('.d2l-code').forEach(code => {
+						window.D2L.Prism.formatCodeElement(code);
+					});
+				});</script></body></html>
